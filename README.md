@@ -1,6 +1,6 @@
 # Library Management System
 
-Sistema simples de gerenciamento de empréstimos de livros em uma biblioteca universitária, desenvolvido em Python e SQLite.
+Sistema simples de gerenciamento de empréstimos de livros em uma biblioteca, desenvolvido em Python e SQLite.
 
 # Funcionalidades
 
